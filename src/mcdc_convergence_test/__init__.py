@@ -1,1 +1,1 @@
-from run import test
+from mcdc_convergence_test.run import test
